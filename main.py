@@ -1,3 +1,5 @@
+# This is the mac version
+
 import pytesseract
 from PIL import ImageGrab
 from googletrans import Translator
