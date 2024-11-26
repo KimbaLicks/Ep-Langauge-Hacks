@@ -1,3 +1,5 @@
+# Windows Version
+
 import pytesseract
 from PIL import ImageGrab
 from deep_translator import GoogleTranslator
