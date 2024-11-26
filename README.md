@@ -5,7 +5,7 @@ Steps:
 
 1)Run the program
    
-2)Press Enter to start
+2)Go into the ep task you want compleated
 
 Note:
 If you want to run a different langauge change thee following vallues:
