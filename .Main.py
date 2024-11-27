@@ -21,6 +21,8 @@ pytesseract.pytesseract.tesseract_cmd = 'C:\\Program Files\\Tesseract-OCR\\tesse
 
 running = False  # Flag to control the main loop
 
+
+# Find box in the center of the screen
 def get_centered_bbox(width, height):
     screen_width, screen_height = pyautogui.size()
     left = (screen_width - width) // 2 - 200
